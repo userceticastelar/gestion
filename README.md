@@ -1,0 +1,9 @@
+# Definición de servidor
+
+Un servidor es un conjunto de computadoras capaz de atender las peticiones de un cliente y devolverle una respuesta en concordancia. Los servidores se pueden ejecutar en cualquier tipo de computadora, incluso en computadoras dedicadas a las cuales se les conoce individualmente como «el servidor». En la mayoría de los casos una misma computadora puede proveer múltiples servicios y tener varios servidores en funcionamiento. La ventaja de montar un servidor en computadoras dedicadas es la seguridad. Por esta razón la mayoría de los servidores son procesos diseñados de forma que puedan funcionar en computadoras de propósito específico.
+
+Los servidores operan a través de una arquitectura llamada cliente-servidor. Los servidores son programas de computadora en ejecución que atienden las peticiones de otros programas: los clientes. Por tanto, el servidor realiza otras tareas para beneficio de los clientes; les ofrece la posibilidad de compartir datos, información y recursos de hardware y software. Los clientes usualmente se conectan al servidor a través de la red, pero también pueden acceder a él a través de la computadora donde está funcionando. En el contexto de redes Internet Protocol (IP), un servidor es un programa que opera como oyente de un socket.1​
+
+Comúnmente, los servidores proveen servicios esenciales dentro de una red, ya sea para usuarios privados dentro de una organización o compañía, o para usuarios públicos a través de Internet. Los tipos de servidores más comunes son servidor de base de datos, servidor de archivos, servidor de correo, servidor de impresión, servidor web, servidor de juego, y servidor de aplicaciones.2​
+
+Un gran número de sistemas usa el modelo de red cliente-servidor, entre ellos los sitios web y los servicios de correo. Un modelo alternativo, el modelo red peer-to-peer, permite a todas las computadoras conectadas actuar como clientes o servidores acorde a las necesidades.
